@@ -7,3 +7,12 @@
 {
     font-size: medium;
 }
+.heading
+{
+    background-color:lightblue;
+    color:white;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+
+}
